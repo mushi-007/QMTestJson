@@ -1,0 +1,26 @@
+[
+   {
+      "Title":"Public Arts",
+      "sort_id":"1",
+      "nid":"MK001",
+      "images ":[
+         "https://img.gulf-times.com/Content/Upload/Slider/320192612557187665807.jpg"
+      ]
+   },
+   {
+      "Title":"Architecture",
+      "sort_id":"2",
+      "nid":"MK002",
+      "images ":[
+         "https://i.ytimg.com/vi/_9CMm84-ieU/maxresdefault.jpg"
+      ]
+   },
+   {
+      "Title":"Collections",
+      "sort_id":"3",
+      "nid":"MK003",
+      "images ":[
+         "https://www.wgoqatar.com/wp-content/uploads/2018/07/38055938_236726600285081_3203484095971590144_n.jpg"
+      ]
+   }
+]
